@@ -1,0 +1,16 @@
+[
+{
+  "modid": "zoommod",
+  "name": "Zoom-Mod",
+  "description": "Mod for Zoom",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/monulo",
+  "updateUrl": "https://github.com/monulo/Zoom-Mod",
+  "authorList": ["Xenon"],
+  "credits": "",
+  "logoFile": "diversity.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
